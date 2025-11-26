@@ -1,4 +1,4 @@
-Algoritmo aprobadoEj3
+Algoritmo Ej3_aprobado
     Definir ed, hijos Como Entero
     Definir pais Como Cadena
 	

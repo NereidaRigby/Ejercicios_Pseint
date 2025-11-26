@@ -1,4 +1,4 @@
-Algoritmo Suma_resta
+Algoritmo Ej5_Suma_resta
     Definir opc Como Entero
     Definir a, b, r Como Real
 	

@@ -1,4 +1,4 @@
-Algoritmo Claves
+Algoritmo Ej2_Claves
     Definir claveIngresada Como Cadena
     Definir claveSistema Como Cadena
 	

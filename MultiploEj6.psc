@@ -1,4 +1,4 @@
-Algoritmo Multiplo
+Algoritmo Ej6_Multiplo
     Definir n1, n2, mult Como Real
     Definir contador Como Entero
 	
